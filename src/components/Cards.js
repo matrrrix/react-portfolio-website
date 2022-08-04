@@ -12,13 +12,13 @@ function Cards() {
             <CardItem
               src="images/img-2.jpg"
               text="Fun Quiz"
-              label="Game"
+              label="Mobile and Desktop"
               path='/minigames/quiz'
             />
             <CardItem
               src="images/img-9.jpg"
               text="Animal Hangman"
-              label="Game"
+              label="Desktop Only"
               path='/minigames/hangman'
             />
           </ul>
